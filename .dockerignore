@@ -12,5 +12,4 @@ src/**/obj/
 .vs/
 TestResults/
 *.log
-Dockerfile
 .dockerignore
