@@ -1,0 +1,8 @@
+{
+  "name": "jackett",
+  "stack": "container",
+  "env": {
+    "HEROKU": { "value": "true" },
+    "ASPNETCORE_ENVIRONMENT": { "value": "Production" }
+  }
+}
